@@ -7,4 +7,6 @@
 for i in range(1, 11):
     for j in range(1, 11):
         # Create a code that will print
-        
+        print(i * j, end=" ")
+    print("\t\t")
+    
